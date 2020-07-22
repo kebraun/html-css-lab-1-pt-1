@@ -1,0 +1,66 @@
+body,
+h1,
+h2,
+ul,
+p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f9fafc;
+
+}
+
+.header {
+    margin: 20px;
+}
+
+.main {
+    margin: 20px;
+}
+
+.link {
+    text-decoration: none;
+    color: #69696a;
+}
+
+.button {
+    color: white;
+    background-color: #000000;
+    padding: 10px;
+    border-radius: 20px;
+    display: block;
+    text-align: center;
+    border: none;
+}
+
+.nav-link {
+    list-style-type: none;
+    margin: 10px 0;
+}
+
+.title {
+    margin: 5px 0;
+    font-size: 16px;
+}
+
+.navigation {
+    margin: 0;
+}
+
+.content {
+    padding: 0 0 30px 0;
+}
+
+.lorem {
+    border-left: 3px solid #69696a;
+    padding: 0 0 0 10px;
+    color: #69696a;
+}
+
+.h2 {
+    padding: 20px 0 20px 0;
+    font-size: 36px;
+}
